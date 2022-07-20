@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahadesign
 - 👀 I’m interested in learning and building new technologies.
-- 🌱 I’m currently learning ReactJS, SQL, and many other computer related technologies.
-- 💞️ I’m looking to collaborate on projects related to Web Development or web design mostly front end.
+- 🌱 I’m currently MERN Stack
+- 💞️ I’m looking to collaborate on projects related to Web Development or web design both front end and back end.
 - 📫 How to reach me? Well, You can find me on LinkedIn:)
 
 <!---
