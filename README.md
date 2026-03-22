@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahadesign
-- 🌱 ReactNative, React, C++ and anything that interests me that weekend!
+- 🌱 Agentic AI, Langgraph, C++, Python and anything that interests me that weekend!
 
 <!---
 sahadesign/sahadesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
